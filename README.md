@@ -24,14 +24,14 @@
 
 **Features**
 
-* semantic ui is used for making the website Responsive
+* used Reacr-redux for state Management
+* bootstrap is used for making the website Responsive
 * Used React-router-dom for navigating from one component to the other 
 * For Better Experience and practise used both react-hooks and Class Components
-* Performed CRUD operations,for creating, reading, updating and deleting the Contact information
-* Provided JSON Server for storing the contact information in the db.json file 
-* Every time we add contact it will get updated in the db.json file
-* Provided the contact Card for the each individual in a contact information
-* used transparent textures pattern for the background color
-* Initially used Local Storage for storing the data but later used JSON Server
-* used async await ES7 feature
-* asyncawait enables used to write functions that appear to block at each asynchronous operation
+* Performed CRUD operations,for creating, reading Movie information
+* Provided spinner on conditionally rendering if search time takes more than expected time
+* Used React Life Cycle Methods like ComponentDidMount
+* Provided the Movie Card for the each individual in a movie information
+* used OMDB API for the fetching of the movie data 
+* In the About section Movie plot is provided where we can have general idea about a movie
+* We can view the trailer of the movie or series in IMDB which we have provided 
