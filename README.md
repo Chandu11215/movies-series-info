@@ -24,7 +24,7 @@
 
 **Features**
 
-* used Reacr-redux for state Management
+* used React-redux for state Management
 * bootstrap is used for making the website Responsive
 * Used React-router-dom for navigating from one component to the other 
 * For Better Experience and practise used both react-hooks and Class Components
